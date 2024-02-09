@@ -30,11 +30,11 @@ button:hover{
     align-items: center;
     justify-content: center;
     width: 600px;
-    height: 600px;
+    height: 450px;
 }
 img{
     width: 50%;
-    height: 80%;
+    height: 70%;
     border-radius: 5px;
 }
 
